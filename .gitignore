@@ -1,0 +1,14 @@
+# virtual environment
+.venv/
+__pycache__/
+*.pyc
+
+# certificates and private keys
+certs/private/
+certs/ca/ca.key.pem
+.env
+
+# misc
+*.log
+*.db
+*.sqlite
